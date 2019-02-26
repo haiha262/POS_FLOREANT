@@ -1,0 +1,11 @@
+Sat Feb 23 07:09:51 AEDT 2019 : Apache Derby Network Server - 10.8.1.2 - (1095077) started and ready to accept connections on port 51527
+----------------------------------------------------------------
+Sat Feb 23 07:11:00 AEDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0169-16d4-15ee-ffffb5fe2163 
+on database directory C:\Users\nqtran\Desktop\Working\QT-NP Pty Ltd\Dave's Noodles Moonah\POS system\POS (updated 22.02.2019)\database\derby-server\posdb  with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/C:/Users/nqtran/Desktop/Working/QT-NP%20Pty%20Ltd/Dave's%20Noodles%20Moonah/POS%20system/POS%20(updated%2022.02.2019)/database/derby-server/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_191-b12
+user.dir=C:\Users\nqtran\Desktop\Working\QT-NP Pty Ltd\Dave's Noodles Moonah\POS system\POS (updated 22.02.2019)\database\derby-server
+derby.system.home=C:\Users\nqtran\Desktop\Working\QT-NP Pty Ltd\Dave's Noodles Moonah\POS system\POS (updated 22.02.2019)\database\derby-server
+Database Class Loader started - derby.database.classpath=''
